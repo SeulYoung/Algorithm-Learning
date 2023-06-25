@@ -1,5 +1,5 @@
 //
-// Created by 94817 on 2023/6/24.
+// 剑指 Offer 06. 从尾到头打印链表
 //
 
 #pragma once
