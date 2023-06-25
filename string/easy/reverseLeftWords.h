@@ -1,10 +1,10 @@
 //
-// Created by 94817 on 2023/6/15.
+// 剑指 Offer 58 - II. 左旋转字符串
 //
 
-#include <string>
-
 #pragma once
+
+#include <string>
 
 class Solution {
 public:
