@@ -19,8 +19,7 @@ public:
         }
 
         if (head->val == val) {
-            head = head->next;
-            return head;
+            return head->next;
         }
 
         ListNode *pre = head;
